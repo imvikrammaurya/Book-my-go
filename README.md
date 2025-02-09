@@ -32,9 +32,19 @@ Font Awesome – Icons for better UI/UX.
 
 🎞️ Live Demo
 
-🔗 Book My Go Live (Replace with your deployed site link)
+🔗 Book My Go Live (https://imvikrammaurya.github.io/Book-my-go/)
 
 🏆 Screenshots
+
+![Home page](https://github.com/user-attachments/assets/dbd69b4a-7f29-4a05-a21d-3e3c9c61e216)
+![popular beaches](https://github.com/user-attachments/assets/6f13531e-3fff-43ba-b6bd-1fd9f1e5683b)
+![popular temples and places](https://github.com/user-attachments/assets/c165fe1c-9271-46f5-8037-36675537f749)
+![about us](https://github.com/user-attachments/assets/284a5b01-6665-4647-a52c-fc7e79a78672)
+![customer review](https://github.com/user-attachments/assets/d5a54efe-fa91-473c-8e41-f8d184754cb8)
+![contact us page](https://github.com/user-attachments/assets/3ba9828a-09b4-4343-89dd-8c3efd2eccde)
+
+
+
 
 
 
